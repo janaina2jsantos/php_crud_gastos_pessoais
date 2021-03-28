@@ -1,0 +1,11 @@
+{
+	"name": "curso_php_poo/projeto01",
+    "description": "lorem ipsum",
+    "autoload": {
+    	"psr-4": {
+    		"Code\\": "src/"
+    	}
+    },
+    "require": {
+    }
+}
