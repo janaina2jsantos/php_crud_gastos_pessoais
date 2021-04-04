@@ -2,7 +2,7 @@
 CRUD feito com PHP
 ===========================
 
-Como rodar esse projeto:
+Como rodar o projeto:
 ===========================
 
 No terminal rode o comando para iniciar o built-in server: php -S localhost:8000
